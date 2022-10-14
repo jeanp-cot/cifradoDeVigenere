@@ -4,6 +4,7 @@ Ejercicio #14 del #30DaysOfCodeByAEIS
 Lenguaje: Java
 
 Objetivo:
+
 •	🧑‍💻👩‍💻Programa un bloque o función que reciba como parámetro una cadena de texto y genere un criptograma de forma aleatoria.
 
 •	🧑‍💻👩‍💻Programa un bloque o función que reciba como parámetro una cadena cifrada y una clave de 27 letras que represente la clave y muestre como salida el mensaje original
